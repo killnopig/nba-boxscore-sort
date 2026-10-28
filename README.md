@@ -8,7 +8,7 @@
 ## 安裝
 
 1. 瀏覽器先安裝 [Tampermonkey（篡改猴）](https://www.tampermonkey.net/)
-2. **[點此安裝腳本](https://raw.githubusercontent.com/你的帳號/nba-boxscore-sort/main/nba-boxscore-sort.user.js)**
+2. **[點此安裝腳本](https://raw.githubusercontent.com/killnopig/nba-boxscore-sort/main/nba-boxscore-sort.user.js)**
 3. 在跳出的畫面按「安裝」
 4. 打開任一場 NBA.com 的 box score 頁面即可使用
 
